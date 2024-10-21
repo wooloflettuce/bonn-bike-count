@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="Ich will hier nivhts kaputt machen reeeee">
-      <change afterPath="$PROJECT_DIR$/Plot 2022.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plot 2015.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plot 2015.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,7 @@
       <workItem from="1729348368949" duration="260000" />
       <workItem from="1729348635434" duration="419000" />
       <workItem from="1729412955911" duration="7538000" />
+      <workItem from="1729507163574" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
