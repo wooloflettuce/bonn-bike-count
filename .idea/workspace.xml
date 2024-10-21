@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="21.10.24">
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="21.10.24&#10;Bearbeitung der 2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2022/FahrradBonn2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2022/FahrradBonn2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plot2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plot2022.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Leon" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,19 +61,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Leon",
-    "last_opened_file_path": "/home/leon/leon/Uni/Semester_5_24_25/Datenanalyse/Projekt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Leon&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/leon/leon/Uni/Semester_5_24_25/Datenanalyse/Projekt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -108,6 +108,9 @@
       <workItem from="1729507163574" duration="1397000" />
       <workItem from="1729515319454" duration="2333000" />
       <workItem from="1729521728963" duration="553000" />
+      <workItem from="1729522292539" duration="192000" />
+      <workItem from="1729522493269" duration="62000" />
+      <workItem from="1729522942008" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -149,7 +152,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729510533873</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="21.10.24&#10;Bearbeitung der 2022">
+      <option name="closed" value="true" />
+      <created>1729522340655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729522340655</updated>
+    </task>
+    <task id="LOCAL-00007" summary="21.10.24&#10;Bearbeitung der 2022">
+      <option name="closed" value="true" />
+      <created>1729522373450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729522373450</updated>
+    </task>
+    <task id="LOCAL-00008" summary="21.10.24&#10;Bearbeitung der 2022">
+      <option name="closed" value="true" />
+      <created>1729522403473</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729522403473</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +210,7 @@
     <MESSAGE value="Test des Test" />
     <MESSAGE value="Ich will hier nivhts kaputt machen reeeee" />
     <MESSAGE value="21.10.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.10.24" />
+    <MESSAGE value="21.10.24&#10;Bearbeitung der 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.10.24&#10;Bearbeitung der 2022" />
   </component>
 </project>
