@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="21.10.24&#10;Bearbeitung der 2022" />
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="21.10.24&#10;Bearbeitung der 2022">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plot2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plot2022.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +112,8 @@
       <workItem from="1729522493269" duration="62000" />
       <workItem from="1729522942008" duration="519000" />
       <workItem from="1729523468347" duration="151000" />
+      <workItem from="1729523797460" duration="91000" />
+      <workItem from="1729523895540" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -198,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729523572018</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="21.10.24&#10;Bearbeitung der 2022">
+      <option name="closed" value="true" />
+      <created>1729523809427</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729523809427</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
