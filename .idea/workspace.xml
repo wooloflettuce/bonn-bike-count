@@ -7,17 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="21.10.24&#10;Bearbeitung der 2022&#10;wieso ist das so doof?">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plot 2015.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plot 2022.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plot2015_neu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plot2015_neu.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plot2022.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plot2022_neu.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/standortinformationen_dauerzählsstellen.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2019/ErgebnisseFahrradmessstellenBonn2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2019/ErgebnisseFahrradmessstellenBonn2019.csv" afterDir="false" />
-    </list>
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="22.10.24&#10;Plots fertig :D" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +140,7 @@
       <workItem from="1729600999336" duration="1306000" />
       <workItem from="1729602375234" duration="3927000" />
       <workItem from="1729606679136" duration="782000" />
-      <workItem from="1729607918978" duration="1316000" />
+      <workItem from="1729607918978" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -288,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729524694103</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="22.10.24&#10;Plots fertig :D">
+      <option name="closed" value="true" />
+      <created>1729609263056</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729609263056</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +322,7 @@
     <MESSAGE value="21.10.24" />
     <MESSAGE value="21.10.24&#10;Bearbeitung der 2022" />
     <MESSAGE value="21.10.24&#10;Bearbeitung der 2022&#10;wieso ist das so doof?" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.10.24&#10;Bearbeitung der 2022&#10;wieso ist das so doof?" />
+    <MESSAGE value="22.10.24&#10;Plots fertig :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.10.24&#10;Plots fertig :D" />
   </component>
 </project>
