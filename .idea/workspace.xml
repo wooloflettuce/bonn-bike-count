@@ -7,16 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="Pfade Behoben">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2018.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2018.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2019.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2019.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2020.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2020.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2021.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2021.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2022.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +151,7 @@
       <workItem from="1730115176511" duration="319000" />
       <workItem from="1730115503991" duration="3050000" />
       <workItem from="1730118565343" duration="208000" />
+      <workItem from="1730216290262" duration="483000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -329,7 +321,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729669969252</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht">
+      <option name="closed" value="true" />
+      <created>1730216536005</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730216536005</updated>
+    </task>
+    <task id="LOCAL-00023" summary="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht">
+      <option name="closed" value="true" />
+      <created>1730216759596</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730216759596</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +377,7 @@
     <MESSAGE value="last Commit before merge" />
     <MESSAGE value="First Merge Leon Done" />
     <MESSAGE value="Pfade Behoben" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pfade Behoben" />
+    <MESSAGE value="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht" />
   </component>
 </project>
