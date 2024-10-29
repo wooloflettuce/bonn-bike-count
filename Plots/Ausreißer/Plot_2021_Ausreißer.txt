@@ -1,0 +1,51 @@
+5.01 BN - Kennedybrücke (Nordseite)            2021-09-08 x
+5.02 BN - Kennedybrücke (Südseite) Barometer   2021-09-08 x
+5.03 BN - Nordbrücke (Südseite)                2021-06-13 x
+5.04 BN - Nordbrücke (Nordseite)               2021-05-09 x
+5.05 BN - Südbrücke (Südseite)                 2021-05-30 x
+5.06 BN - Südbrücke (Nordseite)                2021-08-21
+5.07 BN - Estermannufer                        2021-05-30 x
+5.08 BN - Von-Sandt-Ufer                       2021-05-30 x
+5.09 BN - Rhenusallee                          2021-05-30 x
+5.10 BN - Bröhltalweg                          2021-05-30 x
+5.11 BN - Brühler Straße                       2021-09-08 x
+5.12 BN - Straßburger Weg                             NaT
+5.13 BN - Wilhelm-Spiritus-Ufer                2021-08-21
+5.14 BN - Mc Cloy Weg                          2021-05-30 x
+5.15 BN - Weg auf Damm Neil                    2021-05-30 x
+Kennedybrücke                                  2021-09-08 x
+Nordbrücke                                     2021-05-09 x
+Südbrücke                                      2021-05-30 x
+
+8.09.2021 keine Erklärung
+13.06.2021 Robbie Williams Konzert
+30.05., 9.05. keine Erklärung
+21.08."Solidarität mit Afghanistan - Luftbrücke jetzt",  Kiddical Mass, Green Juice Festival
+
+Null-Werte
+
+ ['5.07 BN - Estermannufer',
+  [datetime.date(2021, 1, 30) - datetime.date(2021, 2, 9)]],
+ ['5.10 BN - Bröhltalweg',
+  [datetime.date(2021, 10, 14) - datetime.date(2021, 12, 31)]],
+ ['5.11 BN - Brühler Straße', [datetime.date(2021, 9, 3)]],
+ ['5.12 BN - Straßburger Weg',
+ALLE NULL
+ ['5.14 BN - Mc Cloy Weg',
+  [datetime.date(2021, 1, 1) - datetime.date(2021, 2, 22)]],
+
+Tage mit 0 Üerquerungen
+
+['5.07 BN - Estermannufer',
+[datetime.date(2021, 7, 16) - datetime.date(2021, 7, 18)]],
+
+['5.08 BN - Von-Sandt-Ufer',
+[datetime.date(2021, 2, 1) - datetime.date(2021, 2, 9)]],
+
+ ['5.13 BN - Wilhelm-Spiritus-Ufer',
+ [datetime.date(2021, 2, 1) - datetime.date(2021, 2, 9)]],
+
+['5.14 BN - Mc Cloy Weg',
+[datetime.date(2021, 7, 15) - datetime.date(2021, 7, 19)]],
+
+Hochwasser 29.02.-13.02., 12.07.-24.07.

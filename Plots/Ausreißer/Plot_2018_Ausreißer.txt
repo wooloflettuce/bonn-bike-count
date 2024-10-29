@@ -1,0 +1,204 @@
+Maxima
+
+5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Innenstadt        2018-08-05 keine Erklärung, Sonntag
+5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Beuel             2018-03-03 weniger Hochwasser, keine Erklärung, starker Peak
+5.02 BN - Kennedybrücke (Südseite) Barometer                        2018-10-04 keine Erklärung, langes Wochenende für viele?
+5.02 BN - Kennedybrücke (Südseite) IN                               2018-06-06 kein besonderer Grund
+5.02 BN - Kennedybrücke (Südseite) Barometer Radfahrer Ri. Beuel    2018-04-19 keine Erklärung, Graf unauffällig
+5.03 BN - Nordbrücke (Südseite)                          2018-06-05 keine Erklärung, Graf unauffällig
+5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Beuel      2018-07-15 Ausstellung zur Nachahmung empfohlen, Graf unauffällig
+5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Auerberg   2018-06-05 keine Erklärung, Graf unauffällig
+5.04 BN - Nordbrücke (Nordseite)                          2018-06-05 keine Erklärung, Graf unauffällig
+5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Beuel      2018-06-05 keine Erklärung, Graf unauffällig
+5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Auerberg   2018-06-05 keine Erklärung, Graf unauffällig
+5.05 BN - Südbrücke (Südseite)                            2018-06-27 keine Erklärung, Graf unauffällig, evtl. Konzert am Hemholtzgymnasium
+5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Gronau       2018-06-27 ""
+5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Ramersdorf   2018-06-27 ""
+5.06 BN - Südbrücke (Nordseite)                                2018-05-05 keine Erklärung, Graf unauffällig
+5.06 BN - Südbrücke (Nordseite) Radfahrer Ri. Gronau           2018-05-05 keine Erklärung, Graf unauffällig
+5.06 BN - Südbrücke (Nordseite) Radfahrer Ri. Ri. Ramersdorf   2018-05-05 keine Erklärung, Graf unauffällig
+5.07 BN - Estermannufer                      2018-07-22 keine Erklärung, mittlerer Peak, erster Sonntag der Ferien
+5.07 BN - Estermannufer Radfahrer Ri. Bonn   2018-05-20 keine Erklärung, Sonntag
+5.07 BN - Estermannufer Radfahrer Ri. Köln   2018-07-22 keine Erklärung, mittlerer Peak, erster Sonntag der Ferien
+5.08 BN - Von-Sandt-Ufer                               2018-08-07 keine Erklärung, Graf unauffällig, Ferien
+5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bad Godesberg   2018-08-07 ""
+5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bonn            2018-06-05 keine Erklärung, Graf unauffällig
+5.09 BN - Rhenusallee                            2018-06-05 ""
+5.09 BN - Rhenusallee Radfahrer Ri. Beuel        2018-06-05 ""
+5.09 BN - Rhenusallee Radfahrer Ri. Oberkassel   2018-05-05 "", Eurega Regatta?
+5.10 BN - Bröhltalweg                         2018-10-06 Tag der offenen Tür Marie Kahle Gesamtschule, Samstag
+5.10 BN - Bröhltalweg Radfahrer Ri. Villich   2018-10-06 ""
+5.10 BN - Bröhltalweg Radfahrer Ri. Beuel     2018-10-06 ""
+5.11 BN - Brühler Straße                        2018-10-04 keine Erklärung, langes Wochenende für viele?
+5.11 BN - Brühler Straße Radfahrer Ri. Süden    2018-10-04 keine Erklärung, langes Wochenende für viele?
+5.11 BN - Brühler Straße Radfahrer Ri. Norden   2018-10-04 keine Erklärung, langes Wochenende für viele?
+5.12 BN - Straßburger Weg                          2018-09-01 Auftakt Beethovenfest
+5.12 BN - Straßenburger Weg Radfahrer Ri. Süden    2018-09-01 ""
+5.12 BN - Straßenburger Weg Radfahrer Ri. Norden   2018-09-01 ""
+5.13 BN - Wilhelm-Spiritus-Ufer              2018-05-05 Rhein in Flammen
+5.13 BN - Wilhelm-Spiritus-Ufer Ri. Süden    2018-06-05 keine Erklärung
+5.13 BN - Wilhelm-Spiritus-Ufer Ri. Norden   2018-05-05 Rhein in Flammen
+5.14 BN - Mc Cloy Weg               2018-05-21 Pfingstmontag
+5.14 BN - Mc Cloy Weg Ri. Remagen   2018-05-21 Pfingstmontag
+5.14 BN - Mc Cloy Weg Ri. Bonn      2018-06-05 keine Erklärung
+5.15 BN - Weg auf Damm Neil              2018-06-05 keine Erklärung
+5.15 BN - Weg auf Damm Neil Ri. Norden   2018-06-05 keine Erklärung
+5.15 BN - Weg auf Damm Neil Ri. Süden    2018-05-05 Rhein in Flammen
+
+Tage mit 0 Überquerungen
+
+Hochwasser: ca. bis 7.02.
+keine Erklärungen für 0 Überquerungen am 1. des Monats
+keine Erklärung Straßburger Weg
+
+[['5.07 BN - Estermannufer', 
+[(2018, 1, 21) - (2018, 1, 29), 
+(2018, 4, 1), (2018, 5, 1), (2018, 6, 1), (2018, 7, 1), (2018, 8, 1), 
+(2018, 9, 1), (2018, 10, 1), (2018, 11, 1)]],
+['5.07 BN - Estermannufer Radfahrer Ri. Bonn', 
+[(2018, 1, 21) - (2018, 1, 29), 
+(2018, 4, 1), (2018, 5, 1), (2018, 6, 1), (2018, 7, 1), 
+(2018, 8, 1), (2018, 9, 1), (2018, 10, 1), (2018, 11, 1)]],
+['5.07 BN - Estermannufer Radfahrer Ri. Köln', 
+[(2018, 1, 21) - (2018, 1, 29), 
+(2018, 4, 1), (2018, 5, 1), (2018, 6, 1), (2018, 7, 1), (2018, 8, 1), 
+(2018, 9, 1), (2018, 10, 1), (2018, 11, 1)]]]
+
+[['5.08 BN - Von-Sandt-Ufer',
+[(2018, 1, 26), (2018, 1, 27), 
+(2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1)]],
+['5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bad Godesberg', 
+[(2018, 1, 26), (2018, 1, 27), 
+(2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1)]],
+['5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bonn', 
+[(2018, 1, 26), (2018, 1, 27), 
+(2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1)]]]
+
+[['5.12 BN - Straßburger Weg', 
+[(2018, 1, 4) - (2018, 1, 12),
+(2018, 2, 7) - (2018, 2, 12),
+(2018, 3, 5) - (2018, 3, 12),
+(2018, 3, 22) - (2018, 3, 25),
+(2018, 3, 28), (2018, 3, 30), (2018, 3, 31),
+ (2018, 4, 5) - (2018, 4, 14),
+ (2018, 4, 16), (2018, 4, 19),
+ (2018, 4, 21) - (2018, 4, 23),
+ (2018, 4, 29), (2018, 5, 5),
+ (2018, 5, 7) - (2018, 5, 19),
+ (2018, 5, 21) - (2018, 5, 31),
+ (2018, 6, 5), (2018, 6, 6),
+ (2018, 6, 9) - (2018, 6, 13),
+ (2018, 6, 15) - (2018, 6, 20),
+ (2018, 6, 22) - (2018, 6, 28),
+ (2018, 6, 30),
+ (2018, 7, 6), (2018, 7, 8),
+ (2018, 7, 10) - (2018, 7, 13),
+ (2018, 7, 16) - (2018, 7, 18),
+ (2018, 7, 21) - (2018, 7, 23),
+ (2018, 7, 28) -(2018, 7, 31), (2018, 8, 5),
+ (2018, 8, 7), (2018, 8, 9) -  (2018, 8, 21),
+ (2018, 8, 23) - (2018, 8, 28),
+ (2018, 8, 30), (2018, 8, 31),
+ (2018, 9, 5) - (2018, 9, 30),
+ (2018, 10, 5) - (2018, 10, 31),
+ (2018, 11, 4) -  (2018, 11, 30),
+ (2018, 12, 5) - (2018, 12, 13),
+ (2018, 12, 15) - (2018, 12, 25),
+ (2018, 12, 27) -(2018, 12, 31)]],
+
+ ['5.12 BN - Straßenburger Weg Radfahrer Ri. Süden',
+ [(2018, 1, 4) - (2018, 1, 12),
+ (2018, 2, 5),
+ (2018, 2, 7) -(2018, 2, 12),
+ (2018, 3, 5) - (2018, 3, 12),
+ (2018, 3, 17),
+ (2018, 3, 21) -(2018, 3, 25),
+ (2018, 3, 27) - (2018, 3, 31),
+ (2018, 4, 5) - (2018, 4, 26),
+ (2018, 4, 29), (2018, 4, 30),
+ (2018, 5, 5) -  (2018, 5, 19),
+ (2018, 5, 21) -  (2018, 5, 31),
+ (2018, 6, 5) -(2018, 6, 7),
+ (2018, 6, 9) - (2018, 6, 20),
+ (2018, 6, 22) - (2018, 6, 28),
+ (2018, 6, 30),
+ (2018, 7, 5) - (2018, 7, 8),
+ (2018, 7, 10) - (2018, 7, 19),
+ (2018, 7, 21) - (2018, 7, 23),
+ (2018, 7, 27) - (2018, 7, 31),
+ (2018, 8, 5) - (2018, 8, 21),
+ (2018, 8, 23) - (2018, 8, 31),
+ (2018, 9, 5) - (2018, 9, 10),
+ (2018, 9, 12) - (2018, 9, 30),
+ (2018, 10, 5) - (2018, 10, 31),
+ (2018, 11, 4) - (2018, 11, 30),
+ (2018, 12, 5) - (2018, 12, 13),
+ (2018, 12, 15) - (2018, 12, 31)]],
+
+ ['5.12 BN - Straßenburger Weg Radfahrer Ri. Norden',
+ [(2018, 1, 4) - (2018, 1, 12),
+ (2018, 2, 4),
+ (2018, 2, 7) - (2018, 2, 12),
+ (2018, 3, 5) - (2018, 3, 12),
+ (2018, 3, 22) - (2018, 3, 25),
+ (2018, 3, 28),
+ (2018, 3, 30) - (2018, 3, 31),
+ (2018, 4, 5) - (2018, 4, 14),
+ (2018, 4, 16),
+ (2018, 4, 19),
+ (2018, 4, 21) - (2018, 4, 23),
+ (2018, 4, 27) - (2018, 4, 29),
+ (2018, 5, 5),
+ (2018, 5, 7) - (2018, 5, 31),
+ (2018, 6, 5) - (2018, 6, 6),
+ (2018, 6, 8) - (2018, 6, 13),
+ (2018, 6, 15) - (2018, 6, 30),
+ (2018, 7, 6),
+ (2018, 7, 8) - (2018, 7, 13),
+ (2018, 7, 16) - (2018, 7, 18),
+ (2018, 7, 20) - (2018, 7, 24),
+ (2018, 7, 28) - (2018, 7, 31),
+ (2018, 8, 5), (2018, 8, 7),
+ (2018, 8, 9) - (2018, 8, 28),
+ (2018, 8, 30) - (2018, 8, 31),
+ (2018, 9, 5) - (2018, 9, 30),
+ (2018, 10, 5) - (2018, 10, 31),
+ (2018, 11, 4) - (2018, 11, 30),
+ (2018, 12, 5) - (2018, 12, 13),
+ (2018, 12, 15) -(2018, 12, 31)]]]
+
+[['5.13 BN - Wilhelm-Spiritus-Ufer',
+[(2018, 1, 25) - (2018, 1, 27),
+(2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1)]],
+['5.13 BN - Wilhelm-Spiritus-Ufer Ri. Süden',
+[(2018, 1, 25) - (2018, 1, 27),
+(2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1)]],
+['5.13 BN - Wilhelm-Spiritus-Ufer Ri. Norden',
+[(2018, 1, 25) - (2018, 1, 27),
+(2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1)]]]
+
+[['5.14 BN - Mc Cloy Weg',
+[(2018, 1, 20) - (2018, 1, 30),
+(2018, 3, 2), (2018, 4, 1), (2018, 5, 1), (2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1), (2018, 10, 1), (2018, 11, 1)]],
+['5.14 BN - Mc Cloy Weg Ri. Remagen',
+[(2018, 1, 20) - (2018, 1, 30),
+(2018, 3, 2), (2018, 4, 1), (2018, 5, 1), (2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1), (2018, 10, 1), (2018, 11, 1)]],
+['5.14 BN - Mc Cloy Weg Ri. Bonn',
+[(2018, 1, 20) - (2018, 1, 30),
+(2018, 3, 1), (2018, 3, 2),
+(2018, 4, 1), (2018, 5, 1), (2018, 6, 1), (2018, 7, 1), (2018, 8, 1), (2018, 9, 1), (2018, 10, 1), (2018, 11, 1)]]]
+
+Tage mit NULL-Werten
+
+[['5.10 BN - Bröhltalweg',
+  [(2018, 7, 12), (2018, 8, 12), (2018, 9, 12), (2018, 10, 12), (2018, 10, 19), (2018, 11, 12),
+  (2018, 11, 29), (2018, 12, 13), (2018, 12, 14), (2018, 12, 22), (2018, 12, 24), (2018, 12, 26),
+  (2018, 12, 27), (2018, 12, 30), (2018, 12, 31)]],
+ ['5.10 BN - Bröhltalweg Radfahrer Ri. Villich',
+  [(2018, 7, 12), (2018, 8, 12), (2018, 9, 12), (2018, 10, 12), (2018, 10, 19), (2018, 11, 12),
+  (2018, 11, 29), (2018, 12, 13), (2018, 12, 14), (2018, 12, 22), (2018, 12, 24), (2018, 12, 26),
+  (2018, 12, 27), (2018, 12, 30), (2018, 12, 31)]],
+ ['5.10 BN - Bröhltalweg Radfahrer Ri. Beuel',
+  [(2018, 7, 12), (2018, 8, 12), (2018, 9, 12), (2018, 10, 12), (2018, 10, 19), (2018, 11, 12),
+  (2018, 11, 29), (2018, 12, 13), (2018, 12, 14), (2018, 12, 22), (2018, 12, 24), (2018, 12, 26),
+  (2018, 12, 27), (2018, 12, 30), (2018, 12, 31)]]]

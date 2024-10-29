@@ -1,0 +1,36 @@
+Maxima
+
+5.03 BN – Nordbrücke (Südseite)                2019-02-06 x
+5.04 BN – Nordbrücke (Nordseite)               2019-02-06 x
+5.05 BN - Südbrücke (Südseite)                 2019-09-06 x
+5.06 BN – Südbrücke (Nordseite)                2019-10-07 x
+5.07 BN - Estermannufer                        2019-04-08 x
+5.11 BN - Brühler Straße                       2019-02-07 x
+5.08 BN - Von-Sandt-Ufer                       2019-09-06 x
+5.09 BN - Rhenusallee                          2019-04-08 x
+5.01 BN – Kennedybrücke (Nordseite)            2019-04-07 x
+5.02 BN - Kennedybrücke (Südseite) Barometer   2019-04-07 x
+Kennedybrücke                                  2019-04-07 x
+5.14 BN - Mc Cloy Weg                          2019-09-06 x
+5.15 BN - Weg auf Damm Neil                    2019-04-08 x
+5.13 BN - Wilhelm-Spiritus-Ufer                2019-09-06 x
+Südbrücke                                      2019-10-07 x
+Nordbrücke                                     2019-02-06 x
+
+6.02.: keine Erklärung
+6.-29.09: Beethovenfest (6.09.: WCC und Marktplatz)
+6.-10.09.: Pützchensmarkt
+6.09.: Open-Air Filmfestival, Bundeskunsthalle
+7.10.: keine Erklärung
+8.04.: recht warm
+7.02.: keine Erklärung, Vermutung: Beginn der Prüfungszeit
+7.04.: Deutsche Post Marathon, über Kennedybrücke
+
+KEINE TAGE MIT NULL-WERTEN
+
+Tage mit 0 Überquerungen
+
+['5.14 BN - Mc Cloy Weg',
+[datetime.date(2019, 3, 18), datetime.date(2019, 3, 19)]]
+
+16.-21-03.: Hochwasser

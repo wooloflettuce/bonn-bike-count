@@ -1,0 +1,153 @@
+Maxima
+
+5.01 BN - Kennedybrücke (Nordseite)                             2016-11-29 x
+5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Innenstadt    2015-04-15 keine Erklärung, Frühling
+5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Beuel         2017-01-06 keine Erklärung, Karnevassaison
+5.02 BN - Kennedybrücke (Südseite) Barometer                       2017-05-17 x
+5.02 BN - Kennedybrücke (Südseite) IN                              2017-05-17 x
+5.02 BN - Kennedybrücke (Südseite) Barometer Radfahrer Ri. Beuel   2017-05-17 x
+5.03 BN - Nordbrücke (Südseite)                          2015-06-04 x
+5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Beuel      2015-08-30 x
+5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Auerberg   2015-06-04 x
+5.04 BN - Nordbrücke (Nordseite)                          2016-07-24 keine Erklärung
+5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Beuel      2016-07-24 keine Erklärung
+5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Auerberg   2016-07-24 keine Erklärung
+5.06 BN - Südbrücke (Nordseite)                                2017-05-06 x
+5.06 BN - Südbrücke (Nordseite) Radfahrer Ri. Gronau           2017-05-06 x
+5.06 BN - Südbrücke (Nordseite) Radfahrer Ri. Ri. Ramersdorf   2017-05-06 x
+5.05 BN - Südbrücke (Südseite)                            2017-08-23 keine Erklärung
+5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Gronau       2017-08-23 keine Erklärung
+5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Ramersdorf   2017-05-17 x
+5.07 BN - Estermannufer                       2016-08-07 keine Erklärung
+5.07 BN - Estermannufer Radfahrer Ri. Bonn    2016-08-07 keine Erklärung
+5.07 BN - Estermannufer Radfahrer Ri. Köln    2016-08-07 keine Erklärung
+5.08 BN - Von-Sandt-Ufer                                2015-06-04 x
+5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bad Godesberg    2016-08-07 keine Erklärung
+5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bonn             2015-06-04 x
+5.09 BN - Rhenusallee                            2015-06-04 x
+5.09 BN - Rhenusallee Radfahrer Ri. Beuel        2015-06-04 x
+5.09 BN - Rhenusallee Radfahrer Ri. Oberkassel   2016-05-07 x
+5.11 BN - Brühler Straße                        2017-06-20 keine Erklärung
+5.11 BN - Brühler Straße Radfahrer Ri. Süden    2017-06-20 keine Erklärung
+5.11 BN - Brühler Straße Radfahrer Ri. Norden   2017-06-01 x
+5.12 BN - Straßburger Weg                          2016-07-07 x
+5.12 BN - Straßenburger Weg Radfahrer Ri. Süden    2017-10-19 x
+5.12 BN - Straßenburger Weg Radfahrer Ri. Norden   2015-06-16 keine Erklärung
+5.13 BN - Wilhelm-Spiritus-Ufer                           2016-05-07 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Süden       2016-08-07 keine Erklärung
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Norden      2016-05-07 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Süden .1    2016-05-08 keine Erklärung
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Norden .1   2016-05-07 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Süden .2    2016-01-16 alle Tage mit 0
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Norden      2016-01-16 alle Tage mit 0
+
+5.14 BN - Mc Cloy Weg                            2016-08-07 keine Erklärung
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen      2016-08-07 keine Erklärung
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn         2016-06-05 keine Erklärung
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen .1   2017-07-09
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn         2016-08-07 keine Erklärung
+5.15 BN - Weg auf Damm Neil                           2016-05-05 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Norden      2016-05-05 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Süden       2016-05-07 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Norden .1   2016-05-08 keine Erklärung
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Süden       2016-05-07 x
+
+1.-11.06.2015, 8.-18.05.2017 und 6.-17.11.2017: UN-Klimakonferenz
+2017 milder Herbst und Winter
+Rhein in Flammen 7.05.2016, 6.-7.05.2017
+19.10.2017 - International Academic Conference
+28.08. – 30.08.2015 Klimahelfer Workshop
+07.07.2016 Mut Tour Bonn (Radtour)
+5.05.2016 Vatertag und Christi Himmelfahrt
+9.07.2017 Parade Bonner Innenstadt historischer Jahrmarkt
+
+KEINE NULL-WERTE
+
+
+Tage mit 0 Überquerungen
+
+2016: hoher Wasserspiegel Frühjar bis Juli
+Dezember 2017 hoher Wasserspiegel
+Nordbrücke Sanierung 2014, Grundsanierung ab 2016
+teilweise viel Regen 5.-7.2016
+Dezember 2017 relativ kühl
+
+[['5.03 BN - Nordbrücke (Südseite) ',
+[(2016, 5, 24), (2016, 5, 25),
+(2016, 6, 1),
+(2016, 6, 12), (2016, 6, 13), (2016, 6, 14),
+(2016, 6, 16), (2016, 6, 17), (2016, 6, 18),
+(2016, 6, 21),
+(2016, 6, 27),
+(2016, 7, 10), (2016, 7, 11),
+(2016, 7, 13) - (2016, 7, 20),
+(2016, 7, 22) - (2016, 7, 27),
+(2016, 7, 29) - (2016, 7, 31),
+(2016, 8, 1), (2017, 12, 7)]],
+
+['5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Beuel ',
+[(2016, 5, 24), (2016, 5, 25),
+(2016, 6, 1),
+(2016, 6, 11) - (2016, 6, 14),
+(2016, 6, 16) - (2016, 6, 18), (2016, 6, 21), (2016, 6, 27),
+(2016, 7, 9) - (2016, 7, 15), (2016, 7, 17) - (2016, 7, 20),
+(2016, 7, 22) - (2016, 7, 27),
+(2016, 7, 29) - (2016, 8, 2),
+(2017, 12, 6),
+(2017, 12, 7)]],
+
+['5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Auerberg',
+[(2016, 5, 24), (2016, 5, 25), (2016, 5, 27),
+(2016, 5, 30) -(2016, 6, 2),
+(2016, 6, 12) - (2016, 6, 18),
+(2016, 6, 20) - (2016, 6, 22), (2016, 6, 27), (2016, 6, 30), (2016, 7, 1),
+(2016, 7, 3), (2016, 7, 5), (2016, 7, 10), (2016, 7, 11),
+(2016, 7, 13) - (2016, 8, 1),
+(2017, 12, 7)]]]
+
+[['5.04 BN - Nordbrücke (Nordseite) ',
+[(2017, 12, 1), (2017, 12, 4)]],
+['5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Beuel ',
+[(2017, 12, 1), (2017, 12, 2), (2017, 12, 3), (2017, 12, 4)]],
+['5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Auerberg',
+[(2017, 12, 1), (2017, 12, 4)]]]
+
+['5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Süden .2',
+[(2016, 1, 16) -  (2017, 12, 31)]]]
+
+['5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Norden',
+[(2016, 1, 16) -  (2017, 12, 31)]]]
+unrealistisch, keine Sperrung bekannt
+
+
+[['5.14 BN - Mc Cloy Weg ',
+[(2016, 2, 11), (2016, 2, 12),
+(2016, 6, 1),
+(2017, 12, 15), (2017, 12, 16), (2017, 12, 17)]],
+
+['5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen ',
+[(2016, 2, 11), (2016, 2, 12),
+(2016, 6, 1),
+(2016, 6, 17) - (2016, 6, 21),
+(2017, 12, 15), (2017, 12, 16),
+(2017, 12, 17)]],
+
+['5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn ',
+[(2016, 2, 11), (2016, 2, 12),
+(2016, 6, 1),
+(2016, 6, 17) - (2016, 6, 21),
+(2017, 12, 15) - (2017, 12, 17)]],
+
+['5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen .1',
+[(2016, 2, 11), (2016, 2, 12),
+(2016, 6, 1),
+(2017, 12, 15) - (2017, 12, 17),
+(2017, 12, 20)]],
+
+['5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn',
+[(2016, 2, 11), (2016, 2, 12),
+(2016, 6, 1),
+(2017, 12, 15) - (2017, 12, 17)]]]
+
+
+

@@ -1,0 +1,216 @@
+5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Beuel                2022-08-07 keine Erklärung, kein großer Peak
+5.03 BN - Nordbrücke (Südseite) Radfahrer Ri. Auerberg             2022-06-16 x
+5.03 BN - Nordbrücke (Südseite) [Bike IN]                          2022-05-15 x
+5.03 BN - Nordbrücke (Südseite) [Bike OUT]                         2022-06-16 x
+5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Beuel               2022-11-02 keine Erklärung, aber großer Peak
+5.04 BN - Nordbrücke (Nordseite) Radfahrer Ri. Auerberg            2022-08-25 x
+5.04 BN - Nordbrücke (Nordseite) [Bike IN]                         2022-07-24 x
+5.04 BN - Nordbrücke (Nordseite) [Bike OUT]                        2022-06-16 x
+5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Gronau                2022-08-09 keine Erklärung, warm
+5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Ramersdorf            2022-06-04 x
+5.05 BN - Südbrücke (Südseite) [Bike IN]                           2022-08-20 x
+5.05 BN - Südbrücke (Südseite) [Bike OUT]                          2022-08-09 keine Erklärung, warm
+5.06 BN - Südbrücke (Nordseite) Radfahrer Ri. Gronau               2022-08-30 x
+5.06 BN - Südbrücke (Nordseite) Radfahrer Ri. Ri. Ramersdorf       2022-02-28 Rosenmontag
+5.06 BN - Südbrücke (Nordseite) [Bike IN]                          2022-06-12 x
+5.06 BN - Südbrücke (Nordseite) [Bike OUT]                         2022-06-12 x
+5.07 BN - Estermannufer Radfahrer Ri. Bonn                         2022-06-16 x
+5.07 BN - Estermannufer Radfahrer Ri. Köln                         2022-05-14 x
+5.07 BN - Estermannufer [Bike IN]                                  2022-08-07 x
+5.07 BN - Estermannufer [Bike OUT]                                 2022-08-07 x
+5.10 BN - Bröhltalweg Radfahrer Ri. Villich                        2022-06-12 x
+5.10 BN - Bröhltalweg Radfahrer Ri. Beuel                          2022-09-11 x
+5.10 BN - Bröhltalweg [Bike IN]                                    2022-06-16 x
+5.10 BN - Bröhltalweg [Bike OUT]                                   2022-09-12 x
+5.11 BN - Brühler Straße Radfahrer Ri. Süden                       2022-07-12 Kunstrasen, aber Dienstag
+5.11 BN - Brühler Straße Radfahrer Ri. Norden                      2022-09-05 keine Erklärung
+5.11 BN - Brühler Straße [Bike IN]                                 2022-05-12 x
+5.11 BN - Brühler Straße [Bike OUT]                                2022-05-04 keine Erklärung
+5.12 BN - Straßenburger Weg Radfahrer Ri. Süden                           NaT
+5.12 BN - Straßenburger Weg Radfahrer Ri. Norden                          NaT
+5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bad Godesberg               2022-07-17 Sonntag, Mädelsflohmarkt Beuel
+5.08 BN - Von-Sandt-Ufer Radfahrer Ri. Bonn                        2022-06-12 x
+5.08 BN - Von-Sandt-Ufer [Bike IN]                                 2022-06-12 x
+5.08 BN - Von-Sandt-Ufer [Bike IN].1                               2022-06-12 x
+5.08 BN - Von-Sandt-Ufer [Bike OUT]                                2022-06-16 x
+5.08 BN - Von-Sandt-Ufer [Bike OUT].1                              2022-06-16 x
+5.09 BN - Rhenusallee Radfahrer Ri. Beuel                          2022-04-18 x
+5.09 BN - Rhenusallee Radfahrer Ri. Oberkassel                     2022-04-18 x
+5.09 BN - Rhenusallee [Bike IN]                                    2022-04-18 x
+5.09 BN - Rhenusallee [Bike IN].1                                  2022-05-15 x
+5.09 BN - Rhenusallee [Bike OUT]                                   2022-05-04 keine Erklärung, Wahlkampf der Linken?
+5.09 BN - Rhenusallee [Bike OUT].1                                 2022-05-10 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Innenstadt       2022-05-11 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Beuel            2022-01-13 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) [Bike IN]                      2022-05-11 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) [Bike IN].1                    2022-05-18 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) [Bike IN].2                    2022-01-01 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) [Bike OUT]                     2022-01-13 keine Erklärung
+5.01 BN - Kennedybrücke (Nordseite) [Bike OUT].1                   2022-05-31 x
+5.01 BN - Kennedybrücke (Nordseite) [Bike OUT].2                   2022-05-18 keine Erklärung
+5.02 BN - Kennedybrücke (Südseite) IN                              2022-07-10 x
+5.02 BN - Kennedybrücke (Südseite) Barometer Radfahrer Ri. Beuel   2022-05-11 keine Erklärung
+5.02 BN - Kennedybrücke (Südseite) Barometer [Bike IN]             2022-07-10 x
+5.02 BN - Kennedybrücke (Südseite) Barometer [Bike IN].1           2022-08-30 x
+5.02 BN - Kennedybrücke (Südseite) Barometer [Bike IN].2           2022-08-30 x
+5.02 BN - Kennedybrücke (Südseite) Barometer [Bike OUT]            2022-07-10 x
+5.02 BN - Kennedybrücke (Südseite) Barometer [Bike OUT].1          2022-08-30 x
+5.02 BN - Kennedybrücke (Südseite) Barometer [Bike OUT].2          2022-07-10 x
+Kennedybrücke Radfahrer Ri. Innenstadt                             2022-05-11 keine Erklärung
+Kennedybrücke Radfahrer Ri. Beuel                                  2022-05-11 keine Erklärung
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen                        2022-06-16 x
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn                           2022-08-17 x
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen.1                      2022-06-16 x
+5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn.1                         2022-06-16 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Norden                   2022-06-12 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Süden                    2022-05-26 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Norden.1                 2022-06-16 x
+5.15 BN - Weg auf Damm Neil Radfahrer Ri. Süden.1                  2022-06-12 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Süden                2022-06-12 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Norden               2022-06-04 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Süden.1              2022-07-10 x
+5.13 BN - Wilhelm-Spiritus-Ufer Radfahrer Ri. Norden.1             2022-06-12 x
+Südbrücke Radfahrer Ri. Oberkassel                                 2022-08-09 x keine Erklärung, wahrscheinlich warm
+Südbrücke Radfahrer Ri. Rheinaue                                   2022-08-09 x ""
+Nordbrücke Radfahrer Ri. Beuel                                     2022-06-12 x
+Nordbrücke Radfahrer Ri. Auerberg                                  2022-06-16 x
+
+13. Ballonfestival Bonn 10.-12.06.2022
+16.06.2022 UN Climate Change Conference ?
+4.-6.06. 2022 Street Food Festival
+15.05.2022 Robbie Williams-Konzert, Landtagswahl, Sonntag
+30.06.2022 bis 13.08.2022 Kunstrasen Bonn
+04.06.2022 QUERBEAT - RANDALE & FREUNDE (OPEN AIR)
+26.05.2022 Christi Himmelfahrt
+25.08.-17.09. Beethovenfest
+25.08. Open Air Kino
+24.07. Rhein-Clean-Up, Sonntag
+22.-24.07. Bierbörse
+20.08. Extinction Rebellion
+20.08. Sommerfest
+20.08. AON Open Air Rap Konzert Telekom Dome
+31.05. Fronleichnam
+4.05. Wahlkampfveranstaltung der Linken
+15.04.-18.04. Ostern
+(12.05.2022) Demonstration zu dem Thema "Faire Arbeitsbedingungen im Sozial- und Erziehungsdienst"
+14.05.2022 Kidical Mass
+11.09. Mädelsflohmarkt
+11.09. Beethovenlauf
+9.-13.09. Pützchens Markt
+warmer Sommer
+
+Null-Werte:
+Südbrücke Radfahrer Ri. Oberkassel 2022-03-27
+ ['5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Gronau',
+  [(2022, 8, 18), (2022, 8, 26) - (2022, 12, 31)]],
+
+ ['5.05 BN - Südbrücke (Südseite) Radfahrer Ri. Ramersdorf',
+  [(2022, 8, 18), (2022, 8, 26) - (2022, 12, 31)]],
+
+ ['5.05 BN - Südbrücke (Südseite) [Bike IN]',
+  [(2022, 8, 18), (2022, 8, 26) - (2022, 12, 31)]],
+
+ ['5.05 BN - Südbrücke (Südseite) [Bike OUT]',
+  [(2022, 8, 18), (2022, 8, 26) - (2022, 12, 31)]],
+
+ ['5.10 BN - Bröhltalweg Radfahrer Ri. Villich',
+  [(2022, 1, 1) - (2022, 5, 9)]],
+
+ ['5.10 BN - Bröhltalweg Radfahrer Ri. Beuel',
+  [(2022, 1, 1) - (2022, 5, 9)]],
+
+ ['5.10 BN - Bröhltalweg [Bike IN]',
+  [(2022, 1, 1) - (2022, 5, 9)]],
+
+ ['5.10 BN - Bröhltalweg [Bike OUT]',
+  [(2022, 1, 1) - (2022, 5, 9)]],
+
+ ['5.12 BN - Straßenburger Weg Radfahrer Ri. Süden',
+  [ALLE NULL]
+
+ ['5.12 BN - Straßenburger Weg Radfahrer Ri. Norden',
+  [ALLE NULL],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Innenstadt',
+  [(2022, 7, 26) - (2022, 10, 29),
+   (2022, 12, 1) - (2022, 12, 19)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Beuel',
+  [(2022, 7, 26) - (2022, 10, 29),
+   (2022, 12, 1) - (2022, 12, 19)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike IN]',
+  [(2022, 7, 26) - (2022, 10, 29),
+   (2022, 12, 1) - (2022, 12, 19)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike IN].1',
+  [(2022, 7, 26) - (2022, 10, 29),
+   (2022, 12, 1) - (2022, 12, 19)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike IN].2',
+  [(2022, 7, 26) - (2022, 10, 29),
+   (2022, 12, 1) - (2022, 12, 19)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike OUT]',
+  [(2022, 7, 26) - ( (2022, 10, 29), (2022, 12, 1) - (2022, 12, 19)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike OUT].1',
+  [(2022, 7, 26), (2022, 10, 29),
+   (2022, 12, 1), (2022, 12, 19)]],
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike OUT].2',
+  [(2022, 7, 26), (2022, 10, 29),
+   (2022, 12, 1), (2022, 12, 19)]],
+
+Tage mit 0 Überquerungen
+
+ ['5.04 BN - Nordbrücke (Nordseite) [Bike IN]',
+ [datetime.date(2022, 2, 1), datetime.date(2022, 12, 7)]],
+
+['5.07 BN - Estermannufer Radfahrer Ri. Bonn',
+ [datetime.date(2022, 1, 6)]],
+
+['5.07 BN - Estermannufer Radfahrer Ri. Köln',
+[datetime.date(2022, 1, 6)]],
+
+['5.07 BN - Estermannufer [Bike IN]',
+[datetime.date(2022, 1, 6), datetime.date(2022, 1, 7)]],
+
+['5.07 BN - Estermannufer [Bike OUT]',
+[datetime.date(2022, 1, 6)]],
+
+['5.08 BN - Von-Sandt-Ufer [Bike IN].1',
+[datetime.date(2022, 12, 15), datetime.date(2022, 12, 16), datetime.date(2022, 12, 17), datetime.date(2022, 12, 18)]],
+
+['5.08 BN - Von-Sandt-Ufer [Bike OUT].1',
+
+[datetime.date(2022, 12, 12) - datetime.date(2022, 12, 18)]],
+
+['5.09 BN - Rhenusallee Radfahrer Ri. Beuel',
+[datetime.date(2022, 5, 25) - datetime.date(2022, 12, 31)]],
+
+ ['5.09 BN - Rhenusallee [Bike OUT].1',
+ [datetime.date(2022, 5, 25) - datetime.date(2022, 12, 31)]],
+
+['5.01 BN - Kennedybrücke (Nordseite) Radfahrer Ri. Beuel',
+[datetime.date(2022, 12, 22), datetime.date(2022, 12, 24), datetime.date(2022, 12, 25), datetime.date(2022, 12, 30)]],
+
+ ['5.01 BN - Kennedybrücke (Nordseite) [Bike IN].2',
+ [datetime.date(2022, 1, 1) - datetime.date(2022, 12, 31)]],
+
+ ['5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen',
+  [datetime.date(2022, 1, 6), datetime.date(2022, 1, 7)]],
+
+['5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn',
+ [datetime.date(2022, 1, 6), datetime.date(2022, 1, 7)]],
+
+['5.14 BN - Mc Cloy Weg Radfahrer Ri. Remagen.1',
+[datetime.date(2022, 1, 6), datetime.date(2022, 1, 7)]],
+
+ ['5.14 BN - Mc Cloy Weg Radfahrer Ri. Bonn.1',
+ [datetime.date(2022, 1, 6), datetime.date(2022, 1, 7)]],
+
+1.06.2022: keine Erklärung
+Weihnachtsfeiertage
+teilweise nur eine Richtung
+ab 23.12.: Wasseranstieg
+1.07.2022 Panama-Festival

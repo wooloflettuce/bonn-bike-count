@@ -1,0 +1,65 @@
+Maxima
+
+5.01 BN - Kennedybrücke (Nordseite)            2020-06-23 x
+5.02 BN - Kennedybrücke (Südseite) Barometer   2020-06-24 x
+5.03 BN - Nordbrücke (Südseite)                2020-05-21 x
+5.04 BN - Nordbrücke (Nordseite)               2020-05-21 x
+5.05 BN - Südbrücke (Südseite)                 2020-03-17 x
+5.06 BN - Südbrücke (Nordseite)                2020-09-22 x
+5.07 BN - Estermannufer                        2020-05-21 x
+5.08 BN - Von-Sandt-Ufer                       2020-05-21 x
+5.09 BN - Rhenusallee                          2020-05-21 x
+5.10 BN - Bröhltalweg                          2020-04-26 x
+5.11 BN - Brühler Straße                       2020-06-23 x
+5.12 BN - Straßburger Weg                             NaT
+5.13 BN - Wilhelm-Spiritus-Ufer                2020-05-21 x
+5.14 BN - Mc Cloy Weg                          2020-05-21 x
+5.15 BN - Weg auf Damm Neil                    2020-05-21 x
+Kennedybrücke                                  2020-06-24 x
+Nordbrücke                                     2020-05-21 x
+Südbrücke                                      2020-09-22 x
+
+
+21.05. Christi Himmelfahrt
+17.03., 26.04., 23.06., 24.06., 22.09. keine Erklärung
+
+Bemerkung: Corona-Jahr, wahrscheinlich viele mit dem Fahrrad unterwegs wegen Viren und Aktivitätsmangel
+
+Null-Tage
+
+ ['5.05 BN - Südbrücke (Südseite)', [(2020, 4, 6)]],
+
+ ['5.12 BN - Straßburger Weg',
+  ALLE NULL
+
+ ['5.14 BN - Mc Cloy Weg',
+ [(2020, 11, 17) - (2020, 12, 30)]],
+
+Tage mit 0 Überquerungen
+
+ ['5.05 BN - Südbrücke (Südseite)',
+ [(2020, 3, 24) -(2020, 3, 28), (2020, 3, 30),
+ - (2020, 4, 5), (2020, 4, 8) -  (2020, 7, 28)]],
+
+ ['5.06 BN - Südbrücke (Nordseite)',
+ [(2020, 2, 11) - (2020, 7, 28)]],
+
+ ['5.07 BN - Estermannufer',
+ [(2020, 2, 5) - (2020, 2, 7),
+  (2020, 3, 7) - (2020, 3, 9),
+  (2020, 3, 12), (2020, 3, 13)]],
+
+ ['5.08 BN - Von-Sandt-Ufer',
+ [(2020, 2, 6)]],
+
+ ['5.14 BN - Mc Cloy Weg',
+  [(2020, 2, 5) - (2020, 2, 8), (2020, 3, 3), (2020, 3, 4),
+  (2020, 3, 7) - (2020, 3, 13)]],
+
+28.02.-18.03.: Hochwasser
+Februar 2020: sehr regnerisch, 100mm Wasser, kalt, teilweise Minusgrade
+Sperrung Südbrücke 26.04.-29.04.
+März bis Anfang April sehr kalt, Minusgrade teilweise
+
+
+https://www.wetterkontor.de/wetter-rueckblick/monats-und-jahreswerte.asp?id=27&jr0=2020&jr1=2020&mo0=1&mo1=12
