@@ -7,12 +7,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="First Merge Leon Done">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="Pfade Behoben">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plots/Plot2018.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2018.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plots/Plot2019.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2019.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Plots_2020.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2020.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Plots_2021.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2021.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Plots_2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2022.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +151,15 @@
       <workItem from="1729602375234" duration="3927000" />
       <workItem from="1729606679136" duration="782000" />
       <workItem from="1729607918978" duration="1720000" />
-      <workItem from="1729669532408" duration="421000" />
+      <workItem from="1729669532408" duration="544000" />
+      <workItem from="1729691485507" duration="851000" />
+      <workItem from="1729692732762" duration="284000" />
+      <workItem from="1730046001802" duration="1473000" />
+      <workItem from="1730047825547" duration="388000" />
+      <workItem from="1730113904645" duration="1263000" />
+      <workItem from="1730115176511" duration="319000" />
+      <workItem from="1730115503991" duration="3050000" />
+      <workItem from="1730118565343" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -310,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729669330935</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Pfade Behoben">
+      <option name="closed" value="true" />
+      <created>1729669969252</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729669969252</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +368,7 @@
     <MESSAGE value="22.10.24&#10;Plots fertig :D" />
     <MESSAGE value="last Commit before merge" />
     <MESSAGE value="First Merge Leon Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Merge Leon Done" />
+    <MESSAGE value="Pfade Behoben" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pfade Behoben" />
   </component>
 </project>
