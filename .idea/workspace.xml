@@ -7,109 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Projekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Projekt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bonn-bike-count.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bonn-bike-count.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_21_24,_12_11 PM_[Changes]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_21_24,_12_11 PM_[Changes]/shelved.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_21_24,_12_11 PM_[Changes]1/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_21_24,_12_11 PM_[Changes]1/shelved.patch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_21_24__12_11PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_21_24__12_11PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dozentenmeetings/Dozentenmeeting_01" beforeDir="false" afterPath="$PROJECT_DIR$/Dozentenmeetings/Dozentenmeeting_01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dozentenmeetings/Notizen/Plotideen" beforeDir="false" afterPath="$PROJECT_DIR$/Dozentenmeetings/Notizen/Plotideen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dozentenmeetings/Zeitplan" beforeDir="false" afterPath="$PROJECT_DIR$/Dozentenmeetings/Zeitplan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fragen-und-Ideen-zum-Projekt" beforeDir="false" afterPath="$PROJECT_DIR$/Fragen-und-Ideen-zum-Projekt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2018.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2018.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2019.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2019.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2020.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2020.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2020_15Min.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2020_15Min.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2021.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2021.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2022.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/501_2015bis2017KennedybrueckeNordseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/501_2015bis2017KennedybrueckeNordseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/501_2015bis2017KennedybrueckeSüdseiteBarometer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/501_2015bis2017KennedybrueckeSüdseiteBarometer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/503_2015bis2017NordbrueckeSuedseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/503_2015bis2017NordbrueckeSuedseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/504_2015bis2017NordbrueckeNordseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/504_2015bis2017NordbrueckeNordseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/505_2015bis2017SuedbrueckeNordseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/505_2015bis2017SuedbrueckeNordseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/506_2015bis2017SuedbrueckeSuedseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/506_2015bis2017SuedbrueckeSuedseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/507_2015bis2017Estermannufer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/507_2015bis2017Estermannufer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/508_2015bis2017vonSandtUfer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/508_2015bis2017vonSandtUfer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/509_2015bis2017Rhenusallee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/509_2015bis2017Rhenusallee.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/511_2015bis2017Brühler_Straße.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/511_2015bis2017Brühler_Straße.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/512_2015bis2017StrassburgerWeg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/512_2015bis2017StrassburgerWeg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/513_2015bis2017WilhelmSpiritusUfer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/513_2015bis2017WilhelmSpiritusUfer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/514_2015bis2017McCloyWeg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/514_2015bis2017McCloyWeg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/515_2015bis2017WegDammBonnBeuel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2015-2017/515_2015bis2017WegDammBonnBeuel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/501_2018BNKennedybrückeNordseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/501_2018BNKennedybrückeNordseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/502_2018BNKennedybrückeSüdseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/502_2018BNKennedybrückeSüdseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/503_2018BNNordbrückeSüdseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/503_2018BNNordbrückeSüdseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/504_2018BNNordbrückeNordseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/504_2018BNNordbrückeNordseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/505_2018BNSüdbrückeSüdseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/505_2018BNSüdbrückeSüdseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/506_2018BNSüdbrückeNordseite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/506_2018BNSüdbrückeNordseite.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/507_2018BNEstermannufer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/507_2018BNEstermannufer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/508_2018BNVonSandtufer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/508_2018BNVonSandtufer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/509_2018BNRhenusallee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/509_2018BNRhenusallee.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/510_2018BNBröhltalweg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/510_2018BNBröhltalweg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/511_2018BNBrühlerStraße.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/511_2018BNBrühlerStraße.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/512_2018BNStraßburgerWeg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/512_2018BNStraßburgerWeg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/513_2018BNWilhelmSpiritusUfer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/513_2018BNWilhelmSpiritusUfer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/514_2018BNMcCloyWeg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/514_2018BNMcCloyWeg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/515_2018BNWegDammBonnBeuel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/515_2018BNWegDammBonnBeuel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2018/standortinformationen_dauerzählsstellen.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2018/standortinformationen_dauerzählsstellen.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2019/ErgebnisseFahrradmessstellenBonn2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2019/ErgebnisseFahrradmessstellenBonn2019.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2020/ErgebnisseFahrradmessstellenBonn2020_15MinAuswertung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2020/ErgebnisseFahrradmessstellenBonn2020_15MinAuswertung.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2020/ErgebnisseFahrradmessstellenBonn2020_1hAuswertung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2020/ErgebnisseFahrradmessstellenBonn2020_1hAuswertung.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2021/ergebnissefahrradzaehlungen2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2021/ergebnissefahrradzaehlungen2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2021/ergebnissefahrradzaehlungen2021_REFACTORED.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2021/ergebnissefahrradzaehlungen2021_REFACTORED.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2022/FahrradBonn2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2022/FahrradBonn2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2022/FahrradBonn2022_COPY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2022/FahrradBonn2022_COPY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2023/Fahrradzaehlstellen2023_15minutenauswertung_0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2023/Fahrradzaehlstellen2023_15minutenauswertung_0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2023/Fahrradzaehlstellen2023_stuendlich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2023/Fahrradzaehlstellen2023_stuendlich.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze/2023/Fahrradzaehlstellen2023_stuendlich_RENAMED.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze/2023/Fahrradzaehlstellen2023_stuendlich_RENAMED.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Bruehler_Straße2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Bruehler_Straße2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Estermannufer2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Estermannufer2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Kennedybruecke(Nord)2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Kennedybruecke(Nord)2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Kennedybruecke(Sued)Barometer2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Kennedybruecke(Sued)Barometer2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/McCloyWeg2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/McCloyWeg2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Nordbruecke(Nord)2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Nordbruecke(Nord)2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Nordbruecke(Sued)2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Nordbruecke(Sued)2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Rhenusallee2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Rhenusallee2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/StrassburgerWeg2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/StrassburgerWeg2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Suedbruecke(Nord)2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Suedbruecke(Nord)2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Suedbruecke(Sued)2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/Suedbruecke(Sued)2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/WegDammBonnBeuel2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/WegDammBonnBeuel2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/WilhelmSpiritusUfer2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/WilhelmSpiritusUfer2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/vonSandtUfer2015_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2015-2017/vonSandtUfer2015_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Broehltalweg2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Broehltalweg2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/BruehlerStraße2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/BruehlerStraße2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Estermannufer2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Estermannufer2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Kennedybruecke(Nord)2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Kennedybruecke(Nord)2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Kennedybruecke(Sued)2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Kennedybruecke(Sued)2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/McCloyWeg2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/McCloyWeg2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Nordbruecke(Nord)2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Nordbruecke(Nord)2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Nordbruecke(Sued)2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Nordbruecke(Sued)2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Rhenusallee2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Rhenusallee2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/StraßburgerWeg2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/StraßburgerWeg2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Suedbruecke(Nord)2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Suedbruecke(Nord)2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Suedbruecke(Sued)2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/Suedbruecke(Sued)2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/VonSandtufer2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/VonSandtufer2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/WegDammBonnBeuel2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/WegDammBonnBeuel2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/WilhelmSpiritusUfer2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2018/WilhelmSpiritusUfer2018.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2019/FahrradmessstellenBonn2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2019/FahrradmessstellenBonn2019.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2020/FahrradmessstellenBonn2020_15MinAuswertung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2020/FahrradmessstellenBonn2020_15MinAuswertung.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2020/FahrradmessstellenBonn2020_1hAuswertung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2020/FahrradmessstellenBonn2020_1hAuswertung.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2021/fahrradzaehlungen2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2021/fahrradzaehlungen2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2021/fahrradzaehlungen2021_REFACTORED.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2021/fahrradzaehlungen2021_REFACTORED.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2022/FahrradZaehlungBonn2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2022/FahrradZaehlungBonn2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2023/Fahrradzaehlstellen2023_15minutenauswertung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2023/Fahrradzaehlstellen2023_15minutenauswertung.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2023/Fahrradzaehlstellen2023_stuendlich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projektdatensaetze_angepasst/2023/Fahrradzaehlstellen2023_stuendlich.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,22 +69,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Leon",
-    "last_opened_file_path": "/home/leonidas/Uni/Semester_5_24_25/Datenanalyse/Projekt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Leon&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/leonidas/Uni/Semester_5_24_25/Datenanalyse/Projekt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -263,7 +162,9 @@
       <workItem from="1731399381470" duration="487000" />
       <workItem from="1731934108716" duration="234000" />
       <workItem from="1732749970161" duration="209000" />
-      <workItem from="1732750330520" duration="890000" />
+      <workItem from="1732750330520" duration="1077000" />
+      <workItem from="1732751557893" duration="17000" />
+      <workItem from="1732751600185" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -457,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730216778679</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
+      <option name="closed" value="true" />
+      <created>1732751384534</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1732751384534</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,6 +407,7 @@
     <MESSAGE value="First Merge Leon Done" />
     <MESSAGE value="Pfade Behoben" />
     <MESSAGE value="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht" />
+    <MESSAGE value="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken" />
+    <option name="LAST_COMMIT_MESSAGE" value="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken" />
   </component>
 </project>
