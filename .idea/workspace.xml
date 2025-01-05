@@ -8,9 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
+      <change afterPath="$PROJECT_DIR$/Neuronales_Netz/NN2023.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Projekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Projekt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plot2015_neu.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kan_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -172,6 +176,17 @@
       <workItem from="1733296540821" duration="560000" />
       <workItem from="1733297109902" duration="6000" />
       <workItem from="1733820937537" duration="943000" />
+      <workItem from="1735132091083" duration="327000" />
+      <workItem from="1735132479766" duration="8000" />
+      <workItem from="1735947582567" duration="9203000" />
+      <workItem from="1735977877810" duration="2056000" />
+      <workItem from="1735980585073" duration="127000" />
+      <workItem from="1736001325745" duration="2339000" />
+      <workItem from="1736005402626" duration="3482000" />
+      <workItem from="1736008945787" duration="122000" />
+      <workItem from="1736010893014" duration="2475000" />
+      <workItem from="1736022083706" duration="6258000" />
+      <workItem from="1736075338503" duration="6882000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
