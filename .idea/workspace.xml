@@ -8,13 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
-      <change afterPath="$PROJECT_DIR$/Neuronales_Netz/NN2023.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Projekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Projekt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neuronales_Netz/Vorverarbeitung.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/Plots_2023.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/Conv1D_model.keras" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/Conv1D_model.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/NN2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/NN2023.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/Seasonal_model.keras" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/Seasonal_model.keras" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +184,19 @@
       <workItem from="1736008945787" duration="122000" />
       <workItem from="1736010893014" duration="2475000" />
       <workItem from="1736022083706" duration="6258000" />
-      <workItem from="1736075338503" duration="6882000" />
+      <workItem from="1736075338503" duration="6972000" />
+      <workItem from="1736146497781" duration="50000" />
+      <workItem from="1736161536793" duration="314000" />
+      <workItem from="1736167304288" duration="279000" />
+      <workItem from="1736177208449" duration="186000" />
+      <workItem from="1736179691481" duration="167000" />
+      <workItem from="1736180348607" duration="2107000" />
+      <workItem from="1736254150326" duration="11644000" />
+      <workItem from="1736318608274" duration="4232000" />
+      <workItem from="1736323237187" duration="7479000" />
+      <workItem from="1736331636075" duration="6794000" />
+      <workItem from="1736341237701" duration="5978000" />
+      <workItem from="1736773663203" duration="9816000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
