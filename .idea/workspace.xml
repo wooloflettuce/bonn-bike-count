@@ -8,11 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
-      <change afterPath="$PROJECT_DIR$/Neuronales_Netz/Vorverarbeitung.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/Conv1D_model.keras" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/Conv1D_model.keras" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/NN2023.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/NN2023.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/Seasonal_model.keras" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/Seasonal_model.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/Vorverarbeitung.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/Vorverarbeitung.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +193,8 @@
       <workItem from="1736323237187" duration="7479000" />
       <workItem from="1736331636075" duration="6794000" />
       <workItem from="1736341237701" duration="5978000" />
-      <workItem from="1736773663203" duration="9816000" />
+      <workItem from="1736773663203" duration="9922000" />
+      <workItem from="1736922827937" duration="8727000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
