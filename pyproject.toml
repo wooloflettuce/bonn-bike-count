@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "projekt"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "3.6.2"
+pandas = "^2.2.3"
+numpy = "2.0.2"
+torch = "^2.5.1"
+kan = "^0.0.2"
+pykan = "^0.2.8"
+scikit-learn = "^1.5.2"
+setuptools = "^75.6.0"
+keras = "^3.7.0"
+tensorflow = "^2.18.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
