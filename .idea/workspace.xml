@@ -9,7 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/Vorverarbeitung.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/Vorverarbeitung.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +100,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -194,7 +193,10 @@
       <workItem from="1736331636075" duration="6794000" />
       <workItem from="1736341237701" duration="5978000" />
       <workItem from="1736773663203" duration="9922000" />
-      <workItem from="1736922827937" duration="11665000" />
+      <workItem from="1736922827937" duration="13133000" />
+      <workItem from="1737014575388" duration="3754000" />
+      <workItem from="1737533683128" duration="1796000" />
+      <workItem from="1738844446007" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
