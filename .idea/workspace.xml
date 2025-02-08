@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="last Commit before merge" />
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="last Commit before merge">
+      <change afterPath="$PROJECT_DIR$/ARIMA/Estermannufer/jaehrlich_v2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARIMA/funktionen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Projekt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Projekt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Estermannufer/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Estermannufer/jaehrlich.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,9 @@
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/Leon" />
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -49,8 +59,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:/wooloflettuce/bonn-bike-count.git&quot;,
-    &quot;accountId&quot;: &quot;bec0694b-6c6b-465b-aaab-88bece941ed5&quot;
+    &quot;url&quot;: &quot;https://github.com/wooloflettuce/bonn-bike-count.git&quot;,
+    &quot;accountId&quot;: &quot;a21b3cab-fff6-4c9a-ae6e-f18c63f8e158&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -67,21 +77,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/leon/leon/Uni/Semester_5_24_25/Datenanalyse/Projekt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;carolin-v2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/leon/leon/Uni/Semester_5_24_25/Datenanalyse/Projekt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -96,8 +107,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -141,6 +152,12 @@
       <workItem from="1729602375234" duration="3927000" />
       <workItem from="1729606679136" duration="782000" />
       <workItem from="1729607918978" duration="1720000" />
+      <workItem from="1737464794476" duration="13769000" />
+      <workItem from="1737533676892" duration="6883000" />
+      <workItem from="1738152771404" duration="392000" />
+      <workItem from="1738154679891" duration="1034000" />
+      <workItem from="1738937326890" duration="2993000" />
+      <workItem from="1739042001770" duration="8937000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
