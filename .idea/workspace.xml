@@ -9,6 +9,10 @@
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/bruehler_straße.keras" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/bruehler_straße.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/estermannufer.keras" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/estermannufer.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/forecast_bruehler_straße.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/forecast_bruehler_straße.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuronales_Netz/forecast_estermannufer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuronales_Netz/forecast_estermannufer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,22 +73,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Leon&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/leonidas/Uni/Semester_5_24_25/Datenanalyse/Projekt/Neuronales_Netz&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Leon",
+    "last_opened_file_path": "/home/leonidas/Uni/Semester_5_24_25/Datenanalyse",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Neuronales_Netz" />
@@ -202,6 +206,7 @@
       <workItem from="1738940233603" duration="2320000" />
       <workItem from="1739119649555" duration="3314000" />
       <workItem from="1739122971854" duration="28000" />
+      <workItem from="1739198140032" duration="3759000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -446,5 +451,16 @@
     <MESSAGE value="29.10.24&#10;Tabellen angepasst und auf einen Stand gebracht" />
     <MESSAGE value="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken" />
     <option name="LAST_COMMIT_MESSAGE" value="28.11.24&#10;Poetry als Versionierung von Python Bibliotheken" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Neuronales_Netz/forecast_bruehler_straße.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
