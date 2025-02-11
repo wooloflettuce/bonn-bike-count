@@ -7,10 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="backup">
+    <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="final- Plots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARIMA/Aggregationen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Aggregationen.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARIMA/Nordbrücke/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Nordbrücke/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Brühler Straße/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Brühler Straße/7-tägig.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,8 @@
       <workItem from="1739221165119" duration="958000" />
       <workItem from="1739223352634" duration="104000" />
       <workItem from="1739227271004" duration="2832000" />
-      <workItem from="1739268643583" duration="11079000" />
+      <workItem from="1739268643583" duration="11223000" />
+      <workItem from="1739290626300" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -394,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739271031796</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="final- Plots">
+      <option name="closed" value="true" />
+      <created>1739283359047</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739283359049</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,6 +441,7 @@
     <MESSAGE value="22.10.24&#10;Plots fertig :D" />
     <MESSAGE value="last Commit before merge" />
     <MESSAGE value="backup" />
-    <option name="LAST_COMMIT_MESSAGE" value="backup" />
+    <MESSAGE value="final- Plots" />
+    <option name="LAST_COMMIT_MESSAGE" value="final- Plots" />
   </component>
 </project>
