@@ -9,8 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="backup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Aggregationen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Aggregationen.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ARIMA/Nordbrücke/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Nordbrücke/jaehrlich.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARIMA/funktionen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Aggregationen.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,7 @@
       <workItem from="1739221165119" duration="958000" />
       <workItem from="1739223352634" duration="104000" />
       <workItem from="1739227271004" duration="2832000" />
-      <workItem from="1739268643583" duration="2292000" />
+      <workItem from="1739268643583" duration="11079000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
@@ -386,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739230108979</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="backup">
+      <option name="closed" value="true" />
+      <created>1739271031796</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739271031796</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
