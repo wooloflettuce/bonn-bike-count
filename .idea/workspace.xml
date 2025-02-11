@@ -9,8 +9,25 @@
   <component name="ChangeListManager">
     <list default="true" id="399a425b-9eaa-42c8-b5fd-d725e439958f" name="Changes" comment="color change Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARIMA/Brühler Straße/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Brühler Straße/jaehrlich.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARIMA/Brühler Straße/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Brühler Straße/monatlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Estermannufer/jaehrlich_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Estermannufer/jaehrlich_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Kennedybrücke/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Kennedybrücke/7-tägig.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Kennedybrücke/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Kennedybrücke/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Kennedybrücke/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Kennedybrücke/monatlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Nordbrücke/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Nordbrücke/7-tägig.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Nordbrücke/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Nordbrücke/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Nordbrücke/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Nordbrücke/monatlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Südbrücke/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Südbrücke/7-tägig.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Südbrücke/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Südbrücke/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Südbrücke/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Südbrücke/monatlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Von-Sandt-Ufer/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Von-Sandt-Ufer/7-tägig.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Von-Sandt-Ufer/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Von-Sandt-Ufer/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Von-Sandt-Ufer/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Von-Sandt-Ufer/monatlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Weg-auf-dem-Damm/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Weg-auf-dem-Damm/7-tägig.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Weg-auf-dem-Damm/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Weg-auf-dem-Damm/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Weg-auf-dem-Damm/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Weg-auf-dem-Damm/monatlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Wilhelm-Spiritus-Ufer/7-tägig.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Wilhelm-Spiritus-Ufer/7-tägig.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Wilhelm-Spiritus-Ufer/jaehrlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Wilhelm-Spiritus-Ufer/jaehrlich.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARIMA/Wilhelm-Spiritus-Ufer/monatlich.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ARIMA/Wilhelm-Spiritus-Ufer/monatlich.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +187,8 @@
       <workItem from="1739227271004" duration="2832000" />
       <workItem from="1739268643583" duration="11223000" />
       <workItem from="1739290626300" duration="1396000" />
+      <workItem from="1739293333364" duration="1570000" />
+      <workItem from="1739297600334" duration="517000" />
     </task>
     <task id="LOCAL-00001" summary="Moved Dozentenmeeting_01 into Dozentenmeeting">
       <option name="closed" value="true" />
